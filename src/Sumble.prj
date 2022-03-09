@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="63884175" file="C:\Users\tmorton\OneDrive - MathWorks\Documents\MATLAB\github\mathworks\Sumble\src\Sumble.prj" location="C:\Users\tmorton\OneDrive - MathWorks\Documents\MATLAB\github\mathworks\Sumble\src" name="Sumble" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="2589972812" file="C:\Users\tmorton\OneDrive - MathWorks\Documents\MATLAB\github\mathworks\Sumble\src\Sumble.prj" location="C:\Users\tmorton\OneDrive - MathWorks\Documents\MATLAB\github\mathworks\Sumble\src" name="Sumble" target="target.mlapps" target-name="Package App">
     <param.appname>Sumble</param.appname>
     <param.authnamewatermark>Tanya Morton</param.authnamewatermark>
     <param.email />
@@ -16,7 +16,7 @@
 Sumble has a single daily solution, with all players attempting to find the same 5-digit code with a target number equal to the day of the month.
 
 Fun for adults and great number practice for children.</param.description>
-    <param.screenshot>C:\Users\tmorton\AppData\Local\Temp\tp0c49b13b_6780_4d5b_80f7_6c2f5da17c17.jpg</param.screenshot>
+    <param.screenshot>C:\Users\tmorton\AppData\Local\Temp\tpa0af0967_85ec_405d_b823_6653a4beb12e.jpg</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
@@ -35,7 +35,10 @@ Fun for adults and great number practice for children.</param.description>
     <fileset.main>
       <file>${PROJECT_ROOT}\Sumble.mlapp</file>
     </fileset.main>
-    <fileset.depfun />
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}\ExampleSumble.png</file>
+      <file>${PROJECT_ROOT}\SumbleIcon.jpg</file>
+    </fileset.depfun>
     <fileset.resources />
     <fileset.package />
     <build-deliverables>
