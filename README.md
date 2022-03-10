@@ -12,9 +12,14 @@ Students, educators, mathematicians, engineers, scientists, and anyone who likes
 ## Time
 You can usually solve the puzzle in a few minutes.
 
-## Workflow
+## How to Play
+Open MATLAB or login to [MATLAB Online](https://matlab.mathworks.com/).
+
+Clone the repository. If you have git set up, then in MATLAB you can execute the command `!git clone https://github.com/mathworks/Sumble.git`.
+
 Install the App by double clicking on the Sumble.mlappinstall file. 
-Play by clicking on the Sumble icon in the Apps tab.  
+
+Play the game by clicking on the Sumble icon in the Apps tab.  
 
 ## Release last tested
 R2021b 
