@@ -4,7 +4,7 @@ Sumble is a numeric game. Players have six attempts to guess a 5-digit numeric c
 ![Sumble, a numeric game](/src/SumbleIcon.jpg)
  
 ## Concepts
-Mathematics, Combinatorics, Randon Number Generation, Game, App Designer, App Deployment, [MATLAB Online](https://matlab.mathworks.com/). 
+Mathematics, Combinatorics, Random Number Generation, Game, App Designer, App Deployment, [MATLAB Online](https://matlab.mathworks.com/). 
 
 ## Suggested Audience
 Students, educators, mathematicians, engineers, scientists, and anyone who likes logic puzzles. 
