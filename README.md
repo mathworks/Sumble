@@ -1,6 +1,10 @@
 # Sumble
 Sumble is a numeric game. Players have six attempts to guess a 5-digit numeric code, where the sum of the digits must equal a target number. Feedback is given for each guess in the form of coloured tiles indicating when the digits match or occupy the correct position. It is built with MATLAB® and inspired by the web-based word game, Wordle, published by The New York Times Company™.
 
+Sumble has a single daily solution, with all players attempting to find the same 5-digit code with a target number equal to the day of the month.
+
+Fun for adults and great number practice for children.
+
 ![Sumble, a numeric game](/src/SumbleIcon.jpg)
  
 ## Concepts
