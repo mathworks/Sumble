@@ -18,34 +18,22 @@ You can usually solve the puzzle in a few minutes. Some days of the month are ea
 
 ### In MATLAB Online 
 * Go to [MATLAB Online](https://matlab.mathworks.com/). 
-
 * If needed:
-
    * [Create a MathWorks account](https://www.mathworks.com/matlabcentral/answers/361072-how-do-i-create-a-mathworks-account).
-
    * Link a MATLAB License or [Get a Free 30 day trial](https://www.mathworks.com/campaigns/products/trials.html). 
-
-   * Sign in. 
-
+   * Sign in.    
+   * Open MATLAB Online.
 * Click the New menu on the Home tab on the toolbar, and select "From Git". 
-
 * Enter https://github.com/mathworks/Sumble.git as the URL. 
-
 * Enter the folder location where you would like to install the game. 
-
 * Click Clone. 
-
 * Install the App by double clicking on the Sumble.mlappinstall file in the Current Folder. 
-
 * Play the game by clicking on the Sumble icon in the Apps tab. Game instructions are available by clicking on the button labeled '?'.
 
 ### In MATLAB Desktop
 * Navigate to the folder location where you would like to install the game.
-
 * Clone the repository with the command `!git clone https://github.com/mathworks/Sumble.git`. This requires git to be set up on your local machine. Alternatively you can simply download the Sumble.mlappinstall file. 
-
 * Install the App by double clicking on the Sumble.mlappinstall file in the Current Folder. 
-
 * Play the game by clicking on the Sumble icon in the Apps tab. Game instructions are available by clicking on the button labeled '?'.  
 
 ## Release last tested
