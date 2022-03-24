@@ -60,7 +60,6 @@ You can usually solve the puzzle in a few minutes. Some days of the month are ea
 #### Option 2: With Code Download 
 * Navigate to the folder location where you would like to install the game.
 * Clone the repository with the command `!git clone https://github.com/mathworks/Sumble.git`. This requires git to be set up on your local machine. A new folder called Sumble will be created. 
-* Alternatively you can simply download the Sumble.mlappinstall file. 
 * Double click on the Sumble.mlappinstall file in the Current Folder. 
 * Install the app.
 * Play the game by clicking on the Sumble icon in the Apps tab. 
