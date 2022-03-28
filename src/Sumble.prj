@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="2589972812" file="C:\Users\tmorton\OneDrive - MathWorks\Documents\MATLAB\github\mathworks\Sumble\src\Sumble.prj" location="C:\Users\tmorton\OneDrive - MathWorks\Documents\MATLAB\github\mathworks\Sumble\src" name="Sumble" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="2589972812" file="C:\Users\josma\MATLAB Drive\repos\Sumble-jos\src\Sumble.prj" location="C:\Users\josma\MATLAB Drive\repos\Sumble-jos\src" name="Sumble" target="target.mlapps" target-name="Package App">
     <param.appname>Sumble</param.appname>
     <param.authnamewatermark>Tanya Morton</param.authnamewatermark>
     <param.email />
@@ -16,16 +16,17 @@
 Sumble has a single daily solution, with all players attempting to find the same 5-digit code with a target number equal to the day of the month.
 
 Fun for adults and great number practice for children.</param.description>
-    <param.screenshot>C:\Users\tmorton\AppData\Local\Temp\tpa3963acc_49c9_4d4c_b432_9a885e8d4020.jpg</param.screenshot>
+    <param.screenshot />
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
     <param.platforms />
-    <param.output>C:\Users\tmorton\OneDrive - MathWorks\Documents\MATLAB\github\mathworks\Sumble</param.output>
+    <param.output>C:\Users</param.output>
     <param.guid>7d0b9d58-d2da-418d-88ad-32b3cdc2ef58</param.guid>
     <unset>
       <param.email />
+      <param.screenshot />
       <param.version />
       <param.products.name />
       <param.products.id />
@@ -42,19 +43,12 @@ Fun for adults and great number practice for children.</param.description>
     <fileset.resources />
     <fileset.package />
     <build-deliverables>
-      <file location="C:\Users\tmorton\OneDrive - MathWorks\Documents\MATLAB\github\mathworks" name="Sumble" optional="false">C:\Users\tmorton\OneDrive - MathWorks\Documents\MATLAB\github\mathworks\Sumble</file>
+      <file location="C:\" name="Users" optional="false">C:\Users</file>
     </build-deliverables>
     <workflow />
     <matlab>
       <root>C:\Program Files\MATLAB\R2021b</root>
-      <toolboxes>
-        <toolbox name="neuralnetwork" />
-      </toolboxes>
-      <toolbox>
-        <neuralnetwork>
-          <enabled>true</enabled>
-        </neuralnetwork>
-      </toolbox>
+      <toolboxes />
     </matlab>
     <platform>
       <unix>false</unix>
