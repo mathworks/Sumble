@@ -24,7 +24,6 @@ You can usually solve the puzzle in a few minutes. Some days of the month are ea
 * Go to [MATLAB Online](https://matlab.mathworks.com/). 
 * If needed:
    * [Create a MathWorks account](https://www.mathworks.com/matlabcentral/answers/361072-how-do-i-create-a-mathworks-account).
-   * Link a MATLAB License or [Get a Free 30 day trial](https://www.mathworks.com/campaigns/products/trials.html). 
    * Sign in.    
 * Open MATLAB Online.
 
